@@ -1,4 +1,5 @@
 # bash-scripting_projects
+click the :blossom: to see the code
 
 <details><summary>:blossom: Check System Health all hosts in the network  </summary>
 <p>
